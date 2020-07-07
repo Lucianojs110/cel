@@ -1,0 +1,585 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-06-18 14:00-0500\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CartaporteController.php:54
+#: Controller/CartaporteController.php:78
+msgid "The cartaporte has been saved."
+msgstr ""
+
+#: Controller/CartaporteController.php:58
+#: Controller/CartaporteController.php:82
+msgid "The cartaporte could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CartaporteController.php:99
+msgid "The cartaporte has been deleted."
+msgstr ""
+
+#: Controller/CartaporteController.php:101
+msgid "The cartaporte could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ColocacionController.php:1106
+#: Controller/LineasController.php:81
+msgid "El registro se actualizó correctamente"
+msgstr ""
+
+#: Controller/ColocacionController.php:1189
+msgid "Se ha borrado el registro de Colcación."
+msgstr ""
+
+#: Controller/ColocacionController.php:1191
+msgid "No se ha podido borrar. intente nuevamente."
+msgstr ""
+
+#: Controller/EstatusController.php:58
+msgid "El registro se guardó correctamente.."
+msgstr ""
+
+#: Controller/EstatusController.php:62
+#: Controller/GeneralController.php:80
+#: Controller/TransfersController.php:59
+#: Controller/TransfersController.php:83
+msgid "El registro no se guardó, intente nuevamente."
+msgstr ""
+
+#: Controller/EstatusController.php:82
+#: Controller/TransfersController.php:79
+msgid "El registro se actualizó correctamente.."
+msgstr ""
+
+#: Controller/EstatusController.php:86
+msgid "El registro no se actualizó, intente nuevamente.."
+msgstr ""
+
+#: Controller/EstatusController.php:103
+msgid "The estatus has been deleted."
+msgstr ""
+
+#: Controller/EstatusController.php:105
+msgid "El registro no se eliminó, intente nuevamente."
+msgstr ""
+
+#: Controller/GeneralController.php:76
+#: Controller/LineasController.php:57
+#: Controller/TransfersController.php:55
+msgid "El registro se guardó correctamente."
+msgstr ""
+
+#: Controller/GeneralController.php:109
+msgid "El registro General Po se actualizó"
+msgstr ""
+
+#: Controller/GeneralController.php:113
+msgid "No se pudo actualizar el registro."
+msgstr ""
+
+#: Controller/GeneralController.php:130
+msgid "se ha eliminado el registro."
+msgstr ""
+
+#: Controller/GeneralController.php:132
+msgid "no se ha eliminado el registro, intente nuevamente."
+msgstr ""
+
+#: Controller/LineasController.php:61
+msgid "No se pudo guardar la linea."
+msgstr ""
+
+#: Controller/LineasController.php:85
+msgid "El registro no se guardó, intente nuevamente"
+msgstr ""
+
+#: Controller/LineasController.php:102
+#: Controller/TransfersController.php:100
+msgid "El registro se eliminó correctamente."
+msgstr ""
+
+#: Controller/LineasController.php:104
+#: Controller/TransfersController.php:102
+msgid "El registro no se elimino, intente nuevamente."
+msgstr ""
+
+#: Controller/UsersController.php:138
+#: Controller/UsersController.php:162
+msgid "El Usuario se guardo Correctamente."
+msgstr ""
+
+#: Controller/UsersController.php:142
+#: Controller/UsersController.php:166
+msgid "El ususrio no pudo ser guardado."
+msgstr ""
+
+#: Controller/UsersController.php:183
+msgid "El Usuario se ha eliminado."
+msgstr ""
+
+#: Controller/UsersController.php:185
+msgid "El Usuario no ha podido eliminarse."
+msgstr ""
+
+#: Template/Cartaporte/add.ctp:42
+#: Template/Colocacion/add.ctp:100
+#: Template/Colocacion/edit.ctp:221
+#: Template/Colocacion/view.ctp:7
+#: Template/Colocacion/view_fac.ctp:7
+#: Template/Estatus/add.ctp:11
+#: Template/Estatus/edit.ctp:11
+#: Template/General/add.ctp:11
+#: Template/General/edit.ctp:8
+#: Template/General/view.ctp:8
+#: Template/Lineas/add.ctp:10
+#: Template/Lineas/edit.ctp:11
+#: Template/Transfers/add.ctp:9
+#: Template/Transfers/edit.ctp:9
+#: Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:11
+msgid "Volver"
+msgstr ""
+
+#: Template/Colocacion/add.ctp:129
+#: Template/Colocacion/edit.ctp:259
+msgid "Agregar"
+msgstr ""
+
+#: Template/Colocacion/editfactura.ctp:28
+msgid "<< Listado"
+msgstr ""
+
+#: Template/Colocacion/editfactura.ctp:29
+msgid "<< Anterior"
+msgstr ""
+
+#: Template/Colocacion/editfactura.ctp:30
+msgid "Siguiente >>"
+msgstr ""
+
+#: Template/Colocacion/facturacion.ctp:11
+msgid "Facturación"
+msgstr ""
+
+#: Template/Colocacion/facturacion.ctp:60
+#: Template/Colocacion/facturacion.ctp:61
+#: Template/Colocacion/index.ctp:80
+#: Template/Colocacion/index.ctp:81
+#: Template/Colocacion/index.ctp:82
+#: Template/Estatus/index.ctp:41
+#: Template/Estatus/index.ctp:42
+#: Template/General/index.ctp:55
+#: Template/General/index.ctp:56
+#: Template/General/index.ctp:57
+#: Template/Lineas/index.ctp:43
+#: Template/Lineas/index.ctp:44
+#: Template/Transfers/index.ctp:41
+#: Template/Transfers/index.ctp:42
+#: Template/Users/home.ctp:83
+#: Template/Users/index.ctp:43
+#: Template/Users/index.ctp:44
+msgid ""
+msgstr ""
+
+#: Template/Colocacion/index.ctp:15
+msgid "Tabla Colocación"
+msgstr ""
+
+#: Template/Colocacion/index.ctp:47
+#: Template/Estatus/index.ctp:25
+#: Template/General/index.ctp:28
+#: Template/Lineas/index.ctp:24
+#: Template/Transfers/index.ctp:23
+#: Template/Users/index.ctp:24
+msgid "Nuevo"
+msgstr ""
+
+#: Template/Colocacion/index.ctp:82
+#: Template/Estatus/index.ctp:42
+#: Template/General/index.ctp:57
+#: Template/Lineas/index.ctp:44
+#: Template/Transfers/index.ctp:42
+#: Template/Users/index.ctp:44
+msgid "Seguro que quiere eliminar el registro? # {0}?"
+msgstr ""
+
+#: Template/Colocacion/reporte.ctp:17
+msgid "Reporte de Colocación"
+msgstr ""
+
+#: Template/Colocacion/reporte_orbis.ctp:17
+msgid "Reporte facturación Orbis"
+msgstr ""
+
+#: Template/Colocacion/reporte_transfer.ctp:17
+msgid "Reporte facturación transfer"
+msgstr ""
+
+#: Template/Colocacion/reporte_transportista.ctp:17
+msgid "Reporte facturación transportista"
+msgstr ""
+
+#: Template/Colocacion/view.ctp:5
+#: Template/Colocacion/view_fac.ctp:5
+msgid "Ver Registro Colocación"
+msgstr ""
+
+#: Template/Estatus/index.ctp:23
+msgid "Estatus"
+msgstr ""
+
+#: Template/Estatus/index.ctp:31
+#: Template/Lineas/index.ctp:31
+msgid "Acciones"
+msgstr ""
+
+#: Template/General/index.ctp:13
+msgid "Tabla General PO"
+msgstr ""
+
+#: Template/General/view.ctp:7
+msgid "Ver Registro  PO"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/Lineas/index.ctp:22
+msgid "Lineas"
+msgstr ""
+
+#: Template/Transfers/index.ctp:21
+msgid "Transfer"
+msgstr ""
+
+#: Template/Users/index.ctp:22
+msgid "Usuarios"
+msgstr ""
+
+#: Template/Users/viewpendiente.ctp:12
+msgid "<-Volver"
+msgstr ""
+
+#: View/Helper/PaginatorHelper.php:1271
+msgid "View"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:500
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:181
+#: Http/Middleware/CsrfProtectionMiddleware.php:228
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:185
+#: Http/Middleware/CsrfProtectionMiddleware.php:232
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:301
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:303
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2666
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2687
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:89
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:91
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:93
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:95
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:87
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154
+#: I18n/RelativeTimeFormatter.php:332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155
+#: I18n/RelativeTimeFormatter.php:333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156
+#: I18n/RelativeTimeFormatter.php:334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157
+#: I18n/RelativeTimeFormatter.php:335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171
+#: I18n/RelativeTimeFormatter.php:346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172
+#: I18n/RelativeTimeFormatter.php:347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173
+#: I18n/RelativeTimeFormatter.php:348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174
+#: I18n/RelativeTimeFormatter.php:349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47
+#: I18n/RelativeTimeFormatter.php:126
+#: I18n/RelativeTimeFormatter.php:316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51
+#: I18n/RelativeTimeFormatter.php:129
+#: I18n/RelativeTimeFormatter.php:319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57
+#: I18n/RelativeTimeFormatter.php:132
+#: I18n/RelativeTimeFormatter.php:322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59
+#: I18n/RelativeTimeFormatter.php:135
+#: I18n/RelativeTimeFormatter.php:325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64
+#: I18n/RelativeTimeFormatter.php:138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68
+#: I18n/RelativeTimeFormatter.php:141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72
+#: I18n/RelativeTimeFormatter.php:144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:56
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:103
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:127
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:934
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2437
+#: View/Form/ArrayContext.php:226
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2459
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2610
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1108
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1110
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:2030
+msgid "Submit"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:818
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "January"
+msgstr "Enero"
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "December"
+msgstr ""
+
